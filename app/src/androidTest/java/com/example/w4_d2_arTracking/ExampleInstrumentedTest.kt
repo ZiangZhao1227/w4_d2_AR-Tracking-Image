@@ -1,4 +1,4 @@
-package com.example.w4_d3_arTracking
+package com.example.w4_d2_arTracking
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

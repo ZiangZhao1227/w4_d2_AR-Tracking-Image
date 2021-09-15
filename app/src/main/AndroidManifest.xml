@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.w4_d3_arTracking">
+    package="com.example.w4_d2_arTracking">
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-feature android:name="android.hardware.camera.ar"
         android:required="true" />
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.W4_d3_ARTrackingLab">
         <activity
-            android:name="com.example.w4_d3_arTracking.MainActivity"
+            android:name="com.example.w4_d2_arTracking.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

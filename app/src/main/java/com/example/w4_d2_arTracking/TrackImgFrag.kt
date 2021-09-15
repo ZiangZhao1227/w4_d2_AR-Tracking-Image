@@ -1,4 +1,4 @@
-package com.example.w4_d3_arTracking
+package com.example.w4_d2_arTracking
 
 import android.graphics.BitmapFactory
 import android.os.Bundle
